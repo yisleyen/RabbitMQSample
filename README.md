@@ -1,0 +1,2 @@
+# RabbitMQSample
+RabbitMQ learning repo
